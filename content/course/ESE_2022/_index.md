@@ -1,11 +1,11 @@
 ---
-title: 🤖 Learn Robotics
-linkTitle: Learn Robotics
+title: 📊 第二届环境系统工程暑期学校
+linkTitle: ESE 2022
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
 tags:
-  - previous
+  - current
 ---
 
 {{< figure src="featured.jpg" >}}
