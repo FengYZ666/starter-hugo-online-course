@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 往期课程
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explore our courses below and expand your knowledge!
+先看看我们以前学了什么吧！
