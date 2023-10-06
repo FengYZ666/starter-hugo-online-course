@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Online Course Template
+title: Environmental System Engineering
 hero_media: teacher.png
 design:
   background:
