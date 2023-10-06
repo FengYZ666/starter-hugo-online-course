@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Environmental System Engineering
+title: 环境系统工程暑期学校
 hero_media: teacher.png
 design:
   background:
